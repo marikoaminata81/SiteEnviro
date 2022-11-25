@@ -1,0 +1,446 @@
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Prepare remote import
+
+
+---Downloaded files---
+The import files for: https://s3.us-west-2.amazonaws.com/static-assets.kubiobuilder.com/demo-sites/production/business-free-1/content.kds were successfully downloaded!
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: init
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_templates
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_template_parts
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_menus
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Executing before import step: prepare_pages
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[INFO] Imported "Primary menu" (nav_menu)
+
+
+------
+[INFO] Imported "Sample Page" (Page)
+
+
+------
+[INFO] Imported "Privacy Policy" (Page)
+
+
+------
+[WARNING] Failed to import "": Invalid post type 
+
+
+------
+[INFO] Imported "Home" (Élément de menu de navigation)
+
+
+------
+[INFO] Imported "" (Élément de menu de navigation)
+
+
+------
+[INFO] Imported "bg-hero" (Fichier média)
+
+
+------
+[INFO] Imported "hero (1)" (Fichier média)
+
+
+------
+[INFO] Imported "vector2" (Fichier média)
+
+
+------
+[INFO] Imported "img1" (Fichier média)
+
+
+------
+[INFO] Imported "img12" (Fichier média)
+
+
+------
+[INFO] Imported "img14" (Fichier média)
+
+
+------
+[INFO] Imported "img16" (Fichier média)
+
+
+------
+[INFO] Imported "content1" (Fichier média)
+
+
+------
+[INFO] Imported "img4" (Fichier média)
+
+
+------
+[INFO] New AJAX call!
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[WARNING] Failed to import "": Invalid post type 
+
+
+------
+[INFO] Imported "img8" (Fichier média)
+
+
+------
+[INFO] Imported "img19" (Fichier média)
+
+
+------
+[INFO] Imported "img3" (Fichier média)
+
+
+------
+[INFO] Imported "" (Élément de menu de navigation)
+
+
+------
+[INFO] Imported "img7" (Fichier média)
+
+
+------
+[INFO] Imported "kubio-featured-image" (Fichier média)
+
+
+------
+[INFO] Imported "Front Page" (Page)
+
+
+------
+[INFO] Imported "Blog" (Page)
+
+
+------
+[INFO] Imported "404" (Modèle)
+
+
+------
+[INFO] Imported "Archive Product" (Modèle)
+
+
+------
+[INFO] Imported "Front Page" (Modèle)
+
+
+------
+[INFO] Imported "Full Width" (Modèle)
+
+
+------
+[INFO] Imported "Index" (Modèle)
+
+
+------
+[INFO] Imported "Page" (Modèle)
+
+
+------
+[INFO] Imported "Search" (Modèle)
+
+
+------
+[INFO] Imported "Single Product" (Modèle)
+
+
+------
+[INFO] Imported "Single Post" (Modèle)
+
+
+------
+[INFO] Imported "Footer" (Élément de modèle)
+
+
+------
+[INFO] Imported "Front Header" (Élément de modèle)
+
+
+------
+[INFO] New AJAX call!
+
+
+------
+Warn: Unable set memory_limit
+
+------
+[WARNING] Failed to import "": Invalid post type 
+
+
+------
+[INFO] Imported "Custom Styles" (Styles globaux)
+
+
+------
+[INFO] Imported "Page With Left Sidebar" (Modèle)
+
+
+------
+[INFO] Imported "Page With Right Sidebar" (Modèle)
+
+
+------
+[INFO] Imported "Contact" (Page)
+
+
+------
+[INFO] Imported "Lorem ipsum" (Article)
+
+
+------
+[INFO] Imported "Lorem Ipsum" (Article)
+
+
+------
+[INFO] Imported "Lorem Ipsum" (Article)
+
+
+------
+[INFO] Imported "Header" (Élément de modèle)
+
+
+------
+[INFO] Imported "Sidebar" (Élément de modèle)
+
+
+------
+[INFO] Imported "Page Sidebar" (Élément de modèle)
+
+
+------
+[INFO] Imported "Untitled" (Formulaire de contact)
+
+
+------
+[INFO] Posts post processing
+
+
+------
+[INFO] Create term `elevate-wp` in `wp_theme`
+
+
+------
+[WARNING] Could not find the author for "Sample Page" (post #29)
+
+
+------
+[WARNING] Could not find the author for "Privacy Policy" (post #30)
+
+
+------
+[WARNING] Could not find the author for "Home" (post #9)
+
+
+------
+[WARNING] Could not find the author for "" (post #10)
+
+
+------
+[WARNING] Could not find the author for "bg-hero.jpg" (post #31)
+
+
+------
+[WARNING] Could not find the author for "hero-1.png" (post #32)
+
+
+------
+[WARNING] Could not find the author for "vector2.png" (post #33)
+
+
+------
+[WARNING] Could not find the author for "img1-e1660831293629.jpg" (post #34)
+
+
+------
+[WARNING] Could not find the author for "img12.jpg" (post #35)
+
+
+------
+[WARNING] Could not find the author for "img14.jpg" (post #36)
+
+
+------
+[WARNING] Could not find the author for "img16.jpg" (post #37)
+
+
+------
+[WARNING] Could not find the author for "content1.jpg" (post #38)
+
+
+------
+[WARNING] Could not find the author for "img4.jpg" (post #39)
+
+
+------
+[WARNING] Could not find the author for "img8.jpg" (post #41)
+
+
+------
+[WARNING] Could not find the author for "img19.jpg" (post #42)
+
+
+------
+[WARNING] Could not find the author for "img3.jpg" (post #43)
+
+
+------
+[WARNING] Could not find the author for "" (post #97)
+
+
+------
+[WARNING] Could not find the author for "img7.jpg" (post #98)
+
+
+------
+[WARNING] Could not find the author for "kubio-featured-image.jpg" (post #99)
+
+
+------
+[WARNING] Could not find the author for "Front Page" (post #7)
+
+
+------
+[WARNING] Could not find the author for "Blog" (post #8)
+
+
+------
+[WARNING] Could not find the author for "404" (post #11)
+
+
+------
+[WARNING] Could not find the author for "Archive Product" (post #12)
+
+
+------
+[WARNING] Could not find the author for "Front Page" (post #13)
+
+
+------
+[WARNING] Could not find the author for "Full Width" (post #14)
+
+
+------
+[WARNING] Could not find the author for "Index" (post #15)
+
+
+------
+[WARNING] Could not find the author for "Page" (post #16)
+
+
+------
+[WARNING] Could not find the author for "Search" (post #17)
+
+
+------
+[WARNING] Could not find the author for "Single Product" (post #18)
+
+
+------
+[WARNING] Could not find the author for "Single Post" (post #19)
+
+
+------
+[WARNING] Could not find the author for "Footer" (post #20)
+
+
+------
+[WARNING] Could not find the author for "Front Header" (post #21)
+
+
+------
+[WARNING] Could not find the author for "Custom Styles" (post #105)
+
+
+------
+[WARNING] Could not find the author for "Page With Left Sidebar" (post #106)
+
+
+------
+[WARNING] Could not find the author for "Page With Right Sidebar" (post #107)
+
+
+------
+[WARNING] Could not find the author for "Contact" (post #89)
+
+
+------
+[WARNING] Could not find the author for "Lorem ipsum" (post #180)
+
+
+------
+[WARNING] Could not find the author for "Lorem Ipsum" (post #181)
+
+
+------
+[WARNING] Could not find the author for "Lorem Ipsum" (post #182)
+
+
+------
+[WARNING] Could not find the author for "Header" (post #22)
+
+
+------
+[WARNING] Could not find the author for "Sidebar" (post #23)
+
+
+------
+[WARNING] Could not find the author for "Page Sidebar" (post #183)
+
+
+------
+[WARNING] Could not find the author for "Untitled" (post #91)
+
+
+------
+[INFO] Starting remapping of featured images
+
+
+------
+[INFO] Remapping featured image ID 132 to new ID 99 for post ID 180
+
+
+------
+[INFO] Remapping featured image ID 132 to new ID 99 for post ID 181
+
+
+------
+[INFO] Remapping featured image ID 132 to new ID 99 for post ID 182
+
